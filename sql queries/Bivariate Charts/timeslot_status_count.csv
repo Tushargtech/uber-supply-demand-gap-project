@@ -1,0 +1,13 @@
+"Time Slot",Status,Count
+Afternoon,Cancelled,91
+Afternoon,"Trip Completed",491
+"Early Morning",Cancelled,668
+"Early Morning","Trip Completed",681
+Evening,Cancelled,124
+Evening,"Trip Completed",642
+"Late Night",Cancelled,65
+"Late Night","Trip Completed",214
+Morning,Cancelled,252
+Morning,"Trip Completed",404
+Night,Cancelled,64
+Night,"Trip Completed",399

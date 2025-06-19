@@ -1,0 +1,11 @@
+Day,Status,Count
+Monday,"Trip Completed",601
+Tuesday,"Trip Completed",562
+Wednesday,"Trip Completed",577
+Thursday,"Trip Completed",530
+Friday,"Trip Completed",561
+Wednesday,Cancelled,270
+Thursday,Cancelled,252
+Friday,Cancelled,240
+Tuesday,Cancelled,240
+Monday,Cancelled,262

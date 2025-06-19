@@ -1,0 +1,49 @@
+Hour,Status,Count
+0,Cancelled,3
+0,"Trip Completed",40
+1,Cancelled,4
+1,"Trip Completed",25
+2,Cancelled,5
+2,"Trip Completed",37
+3,Cancelled,2
+3,"Trip Completed",34
+4,Cancelled,51
+4,"Trip Completed",78
+5,Cancelled,176
+5,"Trip Completed",185
+6,Cancelled,145
+6,"Trip Completed",167
+7,Cancelled,169
+7,"Trip Completed",174
+8,Cancelled,178
+8,"Trip Completed",155
+9,Cancelled,175
+9,"Trip Completed",173
+10,Cancelled,62
+10,"Trip Completed",116
+11,Cancelled,15
+11,"Trip Completed",115
+12,Cancelled,19
+12,"Trip Completed",121
+13,Cancelled,18
+13,"Trip Completed",89
+14,Cancelled,11
+14,"Trip Completed",88
+15,Cancelled,21
+15,"Trip Completed",102
+16,Cancelled,22
+16,"Trip Completed",91
+17,Cancelled,35
+17,"Trip Completed",151
+18,Cancelled,24
+18,"Trip Completed",164
+19,Cancelled,24
+19,"Trip Completed",166
+20,Cancelled,41
+20,"Trip Completed",161
+21,Cancelled,42
+21,"Trip Completed",142
+22,Cancelled,12
+22,"Trip Completed",154
+23,Cancelled,10
+23,"Trip Completed",103

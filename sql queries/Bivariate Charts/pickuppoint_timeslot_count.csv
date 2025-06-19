@@ -1,0 +1,13 @@
+"Pickup point","Time Slot",Count
+Airport,Morning,198
+Airport,Evening,390
+City,Morning,458
+Airport,Night,234
+City,"Early Morning",1026
+Airport,"Early Morning",323
+City,Evening,376
+City,Afternoon,307
+Airport,"Late Night",105
+Airport,Afternoon,275
+City,Night,229
+City,"Late Night",174

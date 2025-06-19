@@ -1,0 +1,25 @@
+"Time Slot","Pickup point",Status,Count
+Morning,Airport,"Trip Completed",176
+Evening,Airport,"Trip Completed",312
+Morning,City,"Trip Completed",228
+Night,Airport,"Trip Completed",203
+"Early Morning",City,"Trip Completed",373
+"Early Morning",Airport,"Trip Completed",308
+Evening,City,"Trip Completed",330
+Afternoon,City,"Trip Completed",266
+"Late Night",Airport,"Trip Completed",103
+Afternoon,Airport,"Trip Completed",225
+Night,City,"Trip Completed",196
+"Late Night",City,"Trip Completed",111
+"Early Morning",City,Cancelled,653
+Evening,City,Cancelled,46
+Evening,Airport,Cancelled,78
+Morning,City,Cancelled,230
+"Late Night",City,Cancelled,63
+Morning,Airport,Cancelled,22
+Afternoon,City,Cancelled,41
+Night,Airport,Cancelled,31
+Afternoon,Airport,Cancelled,50
+Night,City,Cancelled,33
+"Early Morning",Airport,Cancelled,15
+"Late Night",Airport,Cancelled,2
